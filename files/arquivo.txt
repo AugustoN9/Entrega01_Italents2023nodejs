@@ -1,0 +1,1 @@
+{"nome":"Lequiz Luttor","idade":39,"altura":1.79,"genero":"masc","username":"luttor","email":"luttor@hotmail.com","senha":"Uut#199-0"}
